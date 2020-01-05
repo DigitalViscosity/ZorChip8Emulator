@@ -1,0 +1,8 @@
+C:\Users\Zohar\OneDrive\Documents\GitHub\ZorChip8Emulator\ZorChip8\ZorChip8\obj\Release\ZorChip8.Screen.resources
+C:\Users\Zohar\OneDrive\Documents\GitHub\ZorChip8Emulator\ZorChip8\ZorChip8\obj\Release\ZorChip8.Properties.Resources.resources
+C:\Users\Zohar\OneDrive\Documents\GitHub\ZorChip8Emulator\ZorChip8\ZorChip8\obj\Release\ZorChip8.csproj.GenerateResource.cache
+C:\Users\Zohar\OneDrive\Documents\GitHub\ZorChip8Emulator\ZorChip8\ZorChip8\bin\Release\ZorChip8.exe.config
+C:\Users\Zohar\OneDrive\Documents\GitHub\ZorChip8Emulator\ZorChip8\ZorChip8\bin\Release\ZorChip8.exe
+C:\Users\Zohar\OneDrive\Documents\GitHub\ZorChip8Emulator\ZorChip8\ZorChip8\bin\Release\ZorChip8.pdb
+C:\Users\Zohar\OneDrive\Documents\GitHub\ZorChip8Emulator\ZorChip8\ZorChip8\obj\Release\ZorChip8.exe
+C:\Users\Zohar\OneDrive\Documents\GitHub\ZorChip8Emulator\ZorChip8\ZorChip8\obj\Release\ZorChip8.pdb
